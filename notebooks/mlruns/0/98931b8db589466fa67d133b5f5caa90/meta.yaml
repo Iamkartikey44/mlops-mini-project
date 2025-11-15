@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karti/PycharmProjects/MLOPS_Pract/mini_project_1/mlops-mini-project/notebooks/mlruns/0/98931b8db589466fa67d133b5f5caa90/artifacts
+end_time: 1762974715847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98931b8db589466fa67d133b5f5caa90
+run_name: whimsical-ox-38
+run_uuid: 98931b8db589466fa67d133b5f5caa90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762974715762
+status: 4
+tags: []
+user_id: karti
